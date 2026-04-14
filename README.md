@@ -1,6 +1,6 @@
 # Image Anomaly Detection using Convolutional Autoencoders
 
-This repository contains a deep learning project that utilizes a Convolutional Autoencoder to detect anomalies in grayscale images. It includes scripts for training the model from scratch and performing inference on new images. Orginnaly it was used for detection of foreign objects in X-ray images.
+This repository contains a deep learning project that utilizes a Convolutional Autoencoder to detect anomalies in grayscale images. It includes scripts for training the model from scratch and performing inference on new images. Originally it was used for detection of foreign objects in X-ray images.
 
 ## How the Autoencoder Works
 
