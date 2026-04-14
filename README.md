@@ -32,6 +32,7 @@ This project leverages the autoencoder for anomaly detection using the following
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Using the Code Programmatically
 
@@ -60,3 +61,4 @@ reconstructed_image = model.predict(input_tensor)
 anomaly_map = np.abs(original_image - reconstructed_image.squeeze())
 
 # Now you can analyze 'anomaly_map' (e.g., apply a threshold to flag defects)
+```
